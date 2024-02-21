@@ -63,7 +63,7 @@ function toRegister(){
       value={email}
       onChange={(e)=>setEmail(e.target.value)}
       type="email"
-      placeholder='Name'
+      placeholder='email'
       />
       <input 
       value={password}
